@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://thakurdiv.tech/)**
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://thakurdiv.com/)**
 
 ⚡ Fun fact **I like to play chess.**
 
